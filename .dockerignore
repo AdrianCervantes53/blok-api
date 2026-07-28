@@ -1,0 +1,8 @@
+*
+!requirements.txt
+!.env.example
+!Dockerfile
+!docker-compose.yml
+!alembic.ini
+!app/
+!alembic/
